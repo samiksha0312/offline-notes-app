@@ -74,7 +74,7 @@ git clone https://github.com/samiksha0312/offline-notes-app.git
 cd offline-notes-app
 npm install
 npx expo start
-
+```
 
 📦 Build Info
 Built and signed using Expo EAS Build
