@@ -78,7 +78,9 @@ npx expo start
 
 📦 Build Info
 Built and signed using Expo EAS Build
+---
 APK size: ~77 MB
+---
 Build date: November 23, 2025
 ---
 Made with 💖 by Samiksha Singh
