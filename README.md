@@ -78,7 +78,3 @@ git clone https://github.com/samiksha0312/offline-notes-app.git
 - No biometric login (PIN/password only)
 ---
 Made with 💖 by Samiksha Singh
-
-cd offline-notes-app
-npm install
-npx expo start
